@@ -1,0 +1,19 @@
+{
+  "name": "toronto-renovation-planner",
+  "displayName": "Toronto & GTA Renovation Planner: costs, quotes, permits, rebates",
+  "version": "0.2.0",
+  "description": "Plan a home renovation in Toronto, the GTA or Ontario: renovation cost estimates, contractor quote comparison, legal basement suite check, permits and timelines, rebates and tax credits, contractor vetting, design ideas and a project brief to send to contractors. Basements, kitchens, bathrooms, additions, full-home and underpinning. By Capable Group Inc.",
+  "author": {
+    "name": "Capable Group Inc.",
+    "url": "https://capablegroupinc.ca"
+  },
+  "homepage": "https://capablegroupinc.ca",
+  "license": "MIT",
+  "keywords": [
+    "renovation", "home-renovation", "renovation-cost", "renovation-planning", "contractor", "contractor-quote",
+    "basement", "basement-finishing", "basement-apartment", "legal-basement", "secondary-suite",
+    "kitchen", "kitchen-renovation", "bathroom", "bathroom-renovation", "home-addition", "underpinning",
+    "building-permit", "rebates", "tax-credit", "homeowner",
+    "toronto", "gta", "ontario", "mississauga", "brampton", "vaughan", "markham"
+  ]
+}
