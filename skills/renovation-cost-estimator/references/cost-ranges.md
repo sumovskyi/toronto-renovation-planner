@@ -1,5 +1,11 @@
 # GTA renovation planning ranges — source alignment September 30, 2026
 
+<!-- tools-sync:source:begin -->
+Shared tool data version 2026-10-02.2; represented source fields checked 2026-10-02. This updates only the named tables/summary; original procedural guidance and other source dates remain unchanged. Publisher price guidance is not independent market verification.
+
+Current publisher sources: [kitchen](https://capablegroupinc.ca/kitchen-renovation-cost-toronto-budget-drivers/), [whole-home](https://capablegroupinc.ca/full-home-renovation-cost-toronto/), [underpinning](https://capablegroupinc.ca/how-much-does-underpinning-a-basement-costs/) and [legal-suite cost](https://capablegroupinc.ca/how-much-does-it-cost-to-legalize-a-basement-in-mississauga/).
+<!-- tools-sync:source:end -->
+
 All prices are in Canadian dollars, before HST unless stated. These are published planning ranges, not quotes or a company's price list. The alignment date records this editorial review, not a fresh verification of every external guide. Cite the actual source and its recorded date; never describe an internal compilation as independent verification. Publisher-authored guides are labelled below. Where public provenance is unresolved, do not present the figure as an externally verified market range.
 
 ## Basement finishing
@@ -23,22 +29,24 @@ The compilation is not a claim that every figure appears verbatim in each linked
 
 The legal-suite budget must cover the applicable kitchen, fire separation, alarms, exit/entrance and permit scope without charging included components twice. Do not automatically add a compliance surcharge or an underpinning premium to a package.
 
-**Legal-suite total temporarily withheld:** the September 30 source review found unresolved attribution for the conditional low figure and a conflict between two typical-range scopes. Do not quote a legal-suite total from this reference until the source decision is resolved. Explain the scope and request comparable itemized quotes. Existing ceiling height, entrance, drains and the applicable legal pathway materially affect the work.
+<!-- tools-sync:legal-low:begin -->
+**Conditional legal-suite starting point:** from about $55,000 only with existing ceiling and side entrance confirmed suitable; modest remaining scope confirmed. This is a GTA planning starting point, not a quote or a finding of code eligibility. The broader legal-suite range remains withheld for new copy. Unknown conditions need a property and design review; do not add included kitchen, bathroom, entrance or structural work twice.
+<!-- tools-sync:legal-low:end -->
 
 | Structural scope | Planning range | Source / limitation |
 |---|---|---|
-| Underpinning, typical Toronto house | $55–85K, structural phase before finishing | September 2026 Toronto guide compilation; public source attribution needs verification before presenting this as independently verified |
-| Benching, typical house alternative | $38–55K, before finishing | Same compilation; an alternative method, not an add-on to underpinning |
+| Underpinning, typical Toronto house | $55,000–$85,000, structural phase before finishing | Full underpinning for the structural phase of a typical Toronto house. Depth, access, soil removal, engineering and drainage affect the scope. Publisher guide; do not describe as independently verified. |
+| Benching, typical house alternative | $38,000–$55,000, structural phase before finishing | Benching for the structural phase of a typical Toronto house. Benching can reduce usable floor area; the designer must check the resulting layout. Publisher guide; do not describe as independently verified. |
 
 Do not infer that every basement must be lowered to one universal height. Applicable building age, design and exit conditions require assessment by the designer/city. Do not combine the two structural methods or derive linear-foot prices from these total budgets.
 
 ## Kitchen — one scope-based set
 
-| Scope | Planning range | Source |
+| Scope | Planning range, before HST | Scope condition |
 |---|---|---|
-| Targeted refresh; cabinet boxes stay | $20–35K | Publisher's market guide, recorded review August 22, 2026 |
-| Complete renovation keeping the layout | $40–75K | Same guide |
-| Layout change, structural work or substantial custom work | $75–150K+ | Same guide; the plus sign is an open upper end |
+| Targeted refresh | $20,000–$35,000 | Targeted refresh, not a full rebuild. Check which cabinets, counters, finishes and appliances are included. |
+| Complete renovation, same principal layout | $40,000–$75,000 | The principal layout stays. Cabinetry, electrical work, finishes and appliances still change the scope. |
+| Layout, structural or substantial custom work | $75,000–$150,000+ | Moved services, changed walls or substantial custom work. Drawings and actual service changes are needed before narrowing the number. |
 
 Source: https://capablegroupinc.ca/kitchen-renovation-cost-toronto-budget-drivers/
 Price drivers include cabinetry, layout, counters, appliances, ventilation, electrical/plumbing work, access and existing conditions. These are the only active kitchen price bands in this reference.
@@ -56,11 +64,11 @@ The September 30 internal planning source records $350–550 per sq ft, but its 
 
 ## Whole-home renovation
 
-| Scope | Planning range per **renovated** sq ft |
+| Scope | Planning basis per renovated sq ft |
 |---|---|
-| Finish-led update | $100–175 |
-| Comprehensive renovation | $175–350 |
-| Structural or high-end work | $350–500+ |
+| Finish-led update | $100–$175 |
+| Comprehensive renovation | $175–$300 |
+| Structural or high-end work | Above $300; published market lows around $350. No ceiling; drawings and site review required. |
 
 Publisher's market guide, recorded review September 15, 2026: https://capablegroupinc.ca/full-home-renovation-cost-toronto/
 Use the area actually renovated, not automatically the entire house. Preserve the open upper end and clarify the scope before calculating. Do not combine these tiers with unrelated whole-house totals.

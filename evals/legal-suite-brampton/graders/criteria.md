@@ -12,3 +12,5 @@ A successful answer:
 - Notes Brampton's second-unit registration/permit process and cites the city or gives the official search route if web access is unavailable.
 - Gives labelled GTA market cost context only from the source; does not double-count included suite components.
 - Cites the existing-house guide and its limited applicability; never promises approval, rent or ROI.
+
+- FAIL if the opening says probably yes or suggests whole-suite feasibility while age/unit/exit context is missing; checklist must preserve CHECK. FAIL if it guesses clear window opening or declares underpinning unnecessary. Show 24×12 inches = approximately 0.186 m² and 12 inches = approximately 305 mm explicitly. Any tax amount must state its supported tax year.

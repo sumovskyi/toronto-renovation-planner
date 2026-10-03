@@ -1,5 +1,24 @@
 # Ontario second-unit (basement suite) rules: checked 2026-09-29
 
+<!-- tools-sync:rules:begin -->
+Shared tool data version 2026-10-02.2; represented source fields checked 2026-10-02. This updates only the named tables/summary; original procedural guidance and other source dates remain unchanged. Publisher price guidance is not independent market verification.
+
+Official dimensional source: [existing-house second-unit guide](https://www.oshawa.ca/media/hqmd3xjs/obc-guide-to-basement-secondary-suite.pdf). Applicability and exit arrangement must be established before comparing measurements. Fire separation and alarms remain CHECK; no whole-suite PASS.
+
+| Screening path | Source dimensions; not approval |
+|---|---|
+| Existing-house ceiling | 1950 mm generally; 1850 mm under beams/ducts |
+| Bedroom egress, where required | 0.35 m² clear opening; no dimension below 380 mm; window-well clearance 550 mm |
+| Separate escape-window pathway | 0.38 m²; no dimension below 460 mm; interior opening within 900 mm of finished floor or fixed steps; exterior clearance 1000 mm and grade/opening condition within 1000 mm. Confirm every pathway condition with designer/city. |
+
+Municipal source links (local applicability still needs review):
+- [Not established](https://www.ontario.ca/page/add-second-unit-your-house)
+- [Toronto](https://www.toronto.ca/services-payments/building-construction/building-permit/before-you-apply-for-a-building-permit/building-permit-application-guides/additional-dwelling-unit-guides/secondary-suites/)
+- [Mississauga](https://www.mississauga.ca/services-and-programs/building-and-renovating/registering-a-second-unit/)
+- [Oshawa](https://www.oshawa.ca/media/hqmd3xjs/obc-guide-to-basement-secondary-suite.pdf)
+- [Ontario — confirm your municipality](https://www.ontario.ca/page/add-second-unit-your-house)
+<!-- tools-sync:rules:end -->
+
 ## Existing-house second-unit screening: applicability first
 Source: City of Oshawa, Ontario Building Code 2024 guide (revised February 11, 2026), checked September 30, 2026: https://www.oshawa.ca/media/hqmd3xjs/obc-guide-to-basement-secondary-suite.pdf
 This guide concerns second units in existing buildings. It does not cover an accessory-building unit or a third unit. Building age and the proposed exit arrangement affect the applicable pathway. Ask for those details and confirm the current municipality's requirements; missing context means CHECK, not a whole-suite PASS.
@@ -21,7 +40,7 @@ Always distinguish an arithmetic measurement check from building-code applicabil
 If web search is available, open the city page and quote it with the date; otherwise give the search phrase and say "check the city's current page".
 
 ## Cost scope
-Use `renovation-cost-estimator/references/cost-ranges.md` for the current source status. Its legal-suite total is withheld while source attribution and typical-range scope are resolved. Do not invent a total or add a blanket compliance surcharge. Structural work depends on the applicable design review, not a universal 1.95 m target; underpinning and benching are alternative methods. Verify which components the quote already includes before adding another allowance.
+Use `renovation-cost-estimator/references/cost-ranges.md` for the current source status. Its conditional legal-suite starting point applies only to the stated suitable-property/modest-scope conditions; the broader range remains withheld for new copy. Do not invent a total or add a blanket compliance surcharge. Structural work depends on the applicable design review, not a universal 1.95 m target; underpinning and benching are alternative methods. Verify which components the quote already includes before adding another allowance.
 
 ## Money that may apply
 - Multigenerational Home Renovation Tax Credit (federal): 14.5% of up to $50,000 (up to $7,250 for 2025) to create a self-contained secondary unit for a senior or an adult eligible for the disability tax credit living with a qualifying relative. https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html

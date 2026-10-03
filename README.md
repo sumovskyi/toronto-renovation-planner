@@ -54,3 +54,5 @@ Found a changed program or a broken link? Tell us through [capablegroupinc.ca](h
 ## License
 
 MIT (see LICENSE).
+
+Free online versions of these tools from the publisher: https://capablegroupinc.ca/renovation-planner/

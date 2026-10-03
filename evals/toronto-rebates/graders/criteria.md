@@ -9,3 +9,5 @@ A successful answer:
 - States key conditions: building permit for the backwater valve; contractor with a valid City of Toronto business licence; downspouts disconnected; apply within two years.
 - Says eligibility is decided by the City ('may qualify') and gives the official toronto.ca link or tells them to check it.
 - May mention other programs only if relevant, without inventing amounts.
+
+- FAIL if the answer invents the homeowner having begun construction or opened the basement floor. Every tax-credit amount must name its supported tax year; do not extrapolate 2025 to 2026.

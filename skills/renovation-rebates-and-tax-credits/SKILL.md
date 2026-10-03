@@ -9,7 +9,7 @@ description: >
   Savings Program". Matches city, project and household to programs that may apply, with amounts,
   conditions, what to do before work starts, and official links.
 metadata:
-  version: "0.2.0"
+  version: "0.3.0"
 ---
 
 # Money-back finder: programs that may pay part of the project
@@ -25,6 +25,9 @@ Program details are in `references/programs.md` with the date they were checked.
 5. **Re-check freshness**: if the reference was checked more than 30 days ago and web search is available, open the official page first and report today's terms; otherwise show the checked date and tell them to confirm on the official page.
 
 ## Rules
+
+- Do not assume work is already underway, the floor is being opened, eligibility is satisfied or a household meets a credit condition unless the user says so. Open with the program that may apply and its conditions.
+- Every tax-credit percentage, threshold and maximum must carry the exact supported tax year. The reference’s stated tax year does not establish later years’ terms. If the relevant year has not been verified, say so and link the official source rather than projecting a number.
 
 - Eligibility is decided by the program, not by this plugin. Say "may qualify" and link the official page.
 - Tax credits are claimed on the homeowner's return. Suggest confirming with their tax preparer. No tax or legal advice.

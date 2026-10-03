@@ -11,3 +11,5 @@ A successful answer:
 - Gives specific questions to send each contractor.
 - Stays fair: judges the documents, doesn't call anyone a scam.
 - STRICT: explicitly cites the Ontario rule that the final price can't exceed the estimate by more than 10% without agreement AND the Province's advice to keep deposits to about 10% or less, attributing them to ontario.ca / Consumer Protection Ontario.
+
+- FAIL if the answer invents add-on prices, assumed dimensions/quantities or a revised final quote total without a cited scope-matched source. Missing items stay Not mentioned, not excluded. Do not conclude tax evasion or uninsured work from cash pricing alone.

@@ -1,5 +1,27 @@
 # Programs (checked 2026-09-29; re-check before quoting if older than 30 days)
 
+<!-- tools-sync:programs:begin -->
+Shared tool data version 2026-10-02.2; represented source fields checked 2026-10-02. This updates only the named tables/summary; original procedural guidance and other source dates remain unchanged. Publisher price guidance is not independent market verification.
+
+The current finder points to programs that may be relevant; it never confirms eligibility, funds or Capable qualification. Detailed conditions below remain necessary.
+
+**Toronto flood-protection subsidy** — Up to 80% of eligible invoiced cost, capped at $6,650 per property.
+
+Appears for flood-protection work in Toronto. Listed assessments and devices may qualify; ordinary finishing does not. Confirm an eligible single-family, duplex, triplex or fourplex property, City contractor licence for the exact work class, any required backwater-valve permit, downspout/debt/device limits and application timing. Expanded amounts apply to eligible work completed on or after November 12, 2025. This finder does not state that Capable qualifies for subsidized work. [Official rules](https://www.toronto.ca/services-payments/water-environment/managing-rain-melted-snow/basement-flooding/basement-flooding-protection-subsidy-program/).
+
+**Multigenerational Home Renovation Tax Credit** — 2025 tax year: 14.5% of up to $50,000 in qualifying expenses; maximum $7,250.
+
+Appears for a self-contained family suite when the senior/disability and qualifying-relative conditions may fit. Confirm the qualifying individual, relative, dwelling, renovation and expense rules. CRA currently shows 2025 amounts here; check current tax-year rules for 2026 work. Keep records and establish the qualifying scope before construction. [Official rules](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html).
+
+**Home Accessibility Tax Credit** — Up to $20,000 of eligible expenses per year — not a $20,000 refund.
+
+Appears for permanent accessibility or safety changes involving a qualifying person aged 65+ or eligible for the disability tax credit. Confirm the household, dwelling and permanent qualifying work. Routine repairs and ordinary appliances are not a substitute for qualifying accessibility work. Keep documentation; confirm the relevant tax-year credit rate with CRA. [Official rules](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31285-home-accessibility-expenses.html).
+
+**Home Renovation Savings** — Examples: bundle insulation up to $7,700; eligible cold-climate air-source heat pump up to $7,500.
+
+Appears for energy upgrades. The program offers assessment-based bundles and eligible single-upgrade routes with different conditions. For the bundle, arrange the required pre-work energy assessment and complete two or more qualifying upgrades. Single-upgrade routes have their own product/size and contractor conditions. Check the official page for current availability and deadlines before buying or starting work. [Official rules](https://www.saveonenergy.ca/homerenovationsavings).
+<!-- tools-sync:programs:end -->
+
 ## City of Toronto: Basement Flooding Protection Subsidy Program
 https://www.toronto.ca/services-payments/water-environment/managing-rain-melted-snow/basement-flooding/basement-flooding-protection-subsidy-program/
 - Who: owners of single-family, duplex, triplex or fourplex residential properties in Toronto.
